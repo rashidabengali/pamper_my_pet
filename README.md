@@ -1,7 +1,9 @@
 # Pamper My Pet
 
 Shop here: 
-[Pamper My Pet - Version 1](https://mmborres.github.io/pamper-my-pet)
+[Pamper My Pet - Version 1](https://mmborres.github.io/pamper-my-pet) deployed using [GH Instructions](https://facebook.github.io/create-react-app/docs/deployment#github-pages-https-pagesgithubcom)
+
+[Pamper My Pet - Version 2](https://mmborres.github.io/pamper_my_pet_deploy) 
 
 [Pamper My Pet](https://rashidabengali.github.io/pamper_my_pet/)
 
