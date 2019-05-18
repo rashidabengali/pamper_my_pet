@@ -1,6 +1,8 @@
 # Pamper My Pet
 
-Shop here: [Pamper My Pet](https://rashidabengali.github.io/pamper_my_pet/)
+Shop here: 
+[Pamper My Pet - Version 1](https://mmborres.github.io/pamper-my-pet)
+[Pamper My Pet](https://rashidabengali.github.io/pamper_my_pet/)
 
 ![Home Page](./src/img/screenshots/Screen%20Shot%202019-05-17%20at%202.51.57%20am.png "Home Page")
 
